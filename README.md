@@ -3,7 +3,7 @@
 Collection of simple powershel scripts useful for system administration.
 Will be adding more scripts soon.
 
-Create-AzureADUsers.ps1 - Script to add Azure AD users to your tenant.
+Create-AzureADUsers.ps1 - Script to add Azure AD users to your tenant. User information is present in the users.csv file.
 
 Create-Subnet.ps1 - Create an Azure subnet in the provided Virtual Network and configurations
 
